@@ -1,6 +1,2 @@
-
-function add(a,b){
-  return a + b;
-}
-
-export {add}
+export { add } from './add.js';
+export { helper } from './helper.js';
