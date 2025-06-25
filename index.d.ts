@@ -1,2 +1,2 @@
-export { add } from './add.js';
-export { helper } from './helper.js';
+export * from './add.d.ts';
+export * from './helper.d.ts';
