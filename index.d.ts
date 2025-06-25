@@ -1,4 +1,2 @@
-export interface MinimalRandomType {
-    value: string;
-  }
-export declare function add(a: number, b: number): number;
+export { add } from './add.js';
+export { helper } from './helper.js';
